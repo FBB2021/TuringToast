@@ -3,6 +3,7 @@
 This project implements an end-to-end deep learning pipeline for crop health detection, from data preprocessing and model training to real-world inference via a deployable API interface.
 
 Model Based: MobileNet_v2
+
 Database: PlantVillage
 
 ---
