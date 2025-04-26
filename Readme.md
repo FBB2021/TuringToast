@@ -50,7 +50,7 @@ Database: PlantVillage
 
 ## 💪 Evaluation
 
-- Trained and validated on the PlantVillage dataset, achieving high accuracy(98%) and F1-Score(98%).
+- Trained and validated on the PlantVillage dataset, achieving high accuracy(98%) and F1-Score(98%) on testset.
 - Tested on real-world captured images to validate generalization and robustness.
 - There is little to no systematic bias or confusion between different classes.
 - The sample size for Potato_healthy appears relatively small (33), indicating a slight class imbalance in the dataset, which could be addressed in future iterations through sampling or class weighting.
